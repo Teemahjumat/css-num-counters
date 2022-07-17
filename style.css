@@ -114,6 +114,7 @@ margin: 40px 0 0 150px ;
     background-size: cover;
     height: 110vh;
     margin-top: 40px;
+    padding-bottom: 50px;
 }
 
 .text{
@@ -422,6 +423,10 @@ width: 30%;
     .ayo{
         height: auto;
     }
+    .rouse{
+        height: auto;
+    }
+    
 }
 @media screen and (max-width:991px) {
     .hero{
