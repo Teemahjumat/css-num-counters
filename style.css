@@ -348,6 +348,7 @@ width: 30%;
     font-weight: 600;
     border-radius: 5px;
     margin: 50px 100px;
+    background-color: #fff;
  }
 .foot p{
     line-height: 0.7;
@@ -408,6 +409,10 @@ width: 30%;
         width: 60%;
         height: auto;
         margin-left: 60px;
+    }
+    .navbar-nav {
+        margin-left: 0px;
+        
     }
     .h1{
         font-size: 30px;
