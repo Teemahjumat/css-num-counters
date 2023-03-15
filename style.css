@@ -114,7 +114,7 @@ margin: 40px 0 0 150px ;
     background-size: cover;
     height: 110vh;
     margin-top: 40px;
-    padding-bottom: 50px;
+    padding-bottom: 50px; 
 }
 
 .text{
@@ -209,19 +209,19 @@ width: 30%;
     left: 10px;
 }
 .vector::after{
-    content: "123";
+    /* content: "123"; */
     border-bottom: 2px solid black;
 }
 .vector1::after{
-    content: "70";
+    /* content: "70"; */
     border-bottom: 2px solid black;
 }
 .vector2::after{
-    content: "15";
+    /* content: "15"; */
     border-bottom: 2px solid black;
 }
 .vector3::after{
-    content: "30";
+    /* content: "30"; */
     border-bottom: 2px solid black;
 }
 .vec,
@@ -249,6 +249,7 @@ width: 30%;
     from {
       --tech: 0;
     }
+
     to {
       --tech: 123;
     }
